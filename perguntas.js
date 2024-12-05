@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'SkateBoard',
+    'O que é SkateBoard',
+    'É uma atividade esportiva radical'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Truck',
+    'O que é Truck?',
+    'São peças de metal que ficam encarregadas de fazer as curvas do skate'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Shape de maple',
+    'O que é um shape de maple?',
+    'È a madeira ideal para o skate'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Lixa emborrachada',
+    'O que é a lixa emborrachada?',
+    'São projetadas para evitar um desgate e para melhorar o desempenho das manobras'
 )
